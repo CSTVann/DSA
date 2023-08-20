@@ -1,0 +1,1 @@
+Clear the newline character left in the input buffer
